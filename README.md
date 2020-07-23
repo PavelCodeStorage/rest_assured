@@ -1,3 +1,4 @@
+```cucumber
 @1
 Feature: ApiVerification
   As a developer
@@ -18,3 +19,4 @@ Then Response error Sync item already processed. Ignored is appeared
 Scenario: User can verify full response
  And User sent request with POST method and body.json file
  Then Response is not null
+```
