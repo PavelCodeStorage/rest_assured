@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: User can verify full response" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-23T13:03:34" hostname="Pavels-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="And User sent request with POST method and body.json file" classname="Scenario: User can verify full response" time="0.0"/>
+  <testcase name="Then Response is appeared" classname="Scenario: User can verify full response" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: User can verify full response" time="5.782"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

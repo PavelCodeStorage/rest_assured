@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: User can verify projectID" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-23T13:03:23" hostname="Pavels-MacBook-Air.local" time="0.173">
+  <properties/>
+  <testcase name="And User sent request with POST method and body.json file" classname="Scenario: User can verify projectID" time="0.0"/>
+  <testcase name="Then Response is appeared with projectId 2240277532" classname="Scenario: User can verify projectID" time="0.002"/>
+  <testcase name="classMethod" classname="Scenario: User can verify projectID" time="13.094"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
